@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Bouncing-Docs/static/css/main.4cdef010.css",
+    "main.js": "/Bouncing-Docs/static/js/main.74cfb5a0.js",
+    "static/js/453.98dd76c5.chunk.js": "/Bouncing-Docs/static/js/453.98dd76c5.chunk.js",
+    "index.html": "/Bouncing-Docs/index.html",
+    "main.4cdef010.css.map": "/Bouncing-Docs/static/css/main.4cdef010.css.map",
+    "main.74cfb5a0.js.map": "/Bouncing-Docs/static/js/main.74cfb5a0.js.map",
+    "453.98dd76c5.chunk.js.map": "/Bouncing-Docs/static/js/453.98dd76c5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4cdef010.css",
+    "static/js/main.74cfb5a0.js"
+  ]
+}
